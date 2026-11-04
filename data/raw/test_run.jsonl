@@ -1,0 +1,8 @@
+{"user_id":1,"interface":"baseline","run_type":"warmup","task_time_seconds":35.0,"task_success":1,"error_count":2,"satisfaction":3}
+{"user_id":1,"interface":"baseline","run_type":"evaluation","task_time_seconds":25.4,"task_success":1,"error_count":1,"satisfaction":3}
+{"user_id":2,"interface":"baseline","run_type":"evaluation","task_time_seconds":28.1,"task_success":1,"error_count":0,"satisfaction":3}
+{"user_id":3,"interface":"baseline","run_type":"evaluation","task_time_seconds":31.2,"task_success":0,"error_count":2,"satisfaction":2}
+{"user_id":1,"interface":"improved","run_type":"warmup","task_time_seconds":29.0,"task_success":1,"error_count":1,"satisfaction":4}
+{"user_id":1,"interface":"improved","run_type":"evaluation","task_time_seconds":19.7,"task_success":1,"error_count":0,"satisfaction":4}
+{"user_id":2,"interface":"improved","run_type":"evaluation","task_time_seconds":21.3,"task_success":1,"error_count":0,"satisfaction":5}
+{"user_id":3,"interface":"improved","run_type":"evaluation","task_time_seconds":20.1,"task_success":1,"error_count":1,"satisfaction":4}
